@@ -1,0 +1,50 @@
+id,name,email,city,amount
+103,User 103,user103@example.com,Chennai,148
+103,User 103,user103@example.com,Chennai,148
+111,User 111,user111@example.com,Delhi,3363
+111,User 111,user111@example.com,Delhi,3363
+113,  user 113,USER113@EXAMPLE.COM ,Pune,682
+113,User 113,user113@example.com,Pune,682
+116,User 116,user116@example.com,Pune,3331
+116,  user 116,USER116@EXAMPLE.COM ,Pune,3331
+11,User 11,user11@example.com,Pune,1379
+11,  user 11,USER11@EXAMPLE.COM ,Pune,1379
+12,User 12,user12@example.com,Chennai,3612
+12,User 12,user12@example.com,Chennai,3612
+169,User 169,user169@example.com,Delhi,208
+169,User 169,user169@example.com,Delhi,208
+172,User 172,user172@example.com,Mumbai,3342
+172,User 172,user172@example.com,Mumbai,3342
+183,User 183,user183@example.com,Delhi,4743
+183,  user 183,USER183@EXAMPLE.COM ,Delhi,4743
+185,User 185,user185@example.com,Delhi,256
+185,User 185,user185@example.com,Delhi,256
+194,User 194,user194@example.com,Delhi,3036
+194,  user 194,USER194@EXAMPLE.COM ,Delhi,3036
+199,User 199,user199@example.com,Delhi,1474
+199,User 199,user199@example.com,Delhi,1474
+19,User 19,user19@example.com,Chennai,2290
+19,User 19,user19@example.com,Chennai,2290
+200,User 200,user200@example.com,Chennai,1620
+200,  user 200,USER200@EXAMPLE.COM ,Chennai,1620
+30,User 30,user30@example.com,Delhi,966
+30,  user 30,USER30@EXAMPLE.COM ,Delhi,966
+30,User 30,user30@example.com,Delhi,966
+35,User 35,user35@example.com,Chennai,2514
+35,User 35,user35@example.com,Chennai,2514
+36,User 36,user36@example.com,Mumbai,3625
+36,  user 36,USER36@EXAMPLE.COM ,Mumbai,3625
+41,User 41,user41@example.com,Mumbai,787
+41,User 41,user41@example.com,Mumbai,787
+55,  user 55,USER55@EXAMPLE.COM ,Delhi,3336
+55,User 55,user55@example.com,Delhi,3336
+59,User 59,user59@example.com,Pune,958
+59,User 59,user59@example.com,Pune,958
+5,User 5,user5@example.com,Delhi,2341
+5,User 5,user5@example.com,Delhi,2341
+86,  user 86,USER86@EXAMPLE.COM ,Pune,4695
+86,User 86,user86@example.com,Pune,4695
+90,User 90,user90@example.com,Chennai,2420
+90,User 90,user90@example.com,Chennai,2420
+96,User 96,user96@example.com,Delhi,2651
+96,User 96,user96@example.com,Delhi,2651
